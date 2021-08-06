@@ -23,7 +23,7 @@ Watchy.h (and all other ancillary files) was required to virtualize the handleBu
 
 virtual void handleButtonPress();
 
-Apart from that everything else is stock standard based on the 7_SEG demo
+Apart from that everything else is stock standard, the date font it borrowed from the 7_SEG demo
 
 <strong>the face is based on the following image</strong>
 
