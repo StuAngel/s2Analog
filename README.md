@@ -1,7 +1,7 @@
 # s2Analog
 Watchy: Simple &amp; Elegant watch face
 
-![Watchy s2Analog watch face](https://raw.githubusercontent.com/StuAngel/s2Analog/main/s2analog.gif)
+![Watchy s2Analog watch face](https://raw.githubusercontent.com/StuAngel/s2Analog/main/s2a.gif)
 
 My first Watchy watch face, I just wanted something that was a fairly simple analogue, but not so simple it was a few dots and dashes,
 
