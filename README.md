@@ -3,7 +3,7 @@ Watchy: Simple &amp; Elegant watch face
 
 ![Watchy s2Analog watch face](https://raw.githubusercontent.com/StuAngel/s2Analog/main/s2a.gif)
 
-My first Watchy watch face, I just wanted something that was a fairly simple analogue, but not so simple it was a few dots and dashes,
+My first Watchy watch face, I just wanted an analogue watch that was a little more than a few dots and lines,
 
 <strong>Buttons</strong><br/>
   <strong>Top Left:</strong> Toggle Dark / Light mode<br/>
