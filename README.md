@@ -7,7 +7,7 @@ My first Watchy watch face, I just wanted an analogue watch that was a little mo
 
 <strong>Buttons</strong><br/>
   <strong>Top Left:</strong> Toggle Dark / Light mode<br/>
-  <strong>Top Right:</strong> Toggle Date front + bold / back unbloded<br/>
+  <strong>Top Right:</strong> Toggle Date foreground / background<br/>
   <strong>Bottom Left:</strong> Default menu system<br/>
   <strong>Bottom Right:</strong> Show / Hide battery gauge
   
