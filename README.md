@@ -21,4 +21,8 @@ virtual void handleButtonPress();
 
 apart from that everything else is stock standard based on the 7_SEG demo
 
+<strong>the face is based on the following image</strong>
+
+![Watchy s2Analog watch face](https://raw.githubusercontent.com/StuAngel/s2Analog/main/watch_raw.gif)
+
 -= Stu =-
